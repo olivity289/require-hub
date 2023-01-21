@@ -1,0 +1,31 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+local Window = Library.CreateLib("olidragon210 hub ", "Ocean")
+
+-- Requirescript
+
+local Requirescript = Window:NewTab ("Requirescript")
+
+local RequirescriptSection = Requirescript:NewSection("Requirescript")
+
+RequirescriptSection:NewButton("Drip Goku", "...", function()
+
+	setclipboard("require(7935964098)("olidragon210")--Made by DesktopDusk#9900 ")
+
+toclipboard(" require(7935964098)("olidragon210")
+
+--Made by DesktopDusk#9900")
+
+end)
+
+RequirescriptSection:NewButton("Alien Planet", "...", function()
+
+	setclipboard(" require(8063350323).daplanet("olidragon210")
+
+--phantom#6278 ")
+
+toclipboard("require(8063350323).daplanet("olidragon210")
+
+--phantom#6278")
+
+end)
